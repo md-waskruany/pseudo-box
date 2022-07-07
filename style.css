@@ -4,16 +4,27 @@ h1 {
 
 span {
     background-color: blue;
-    display: inline-block;
+    margin-left: 15px;
+    margin-right: 20px;
     height: 200px;
     width: 200px;
 }
 
 div {
     background-color: aqua;
-    width: 300px;
+    /* width: 300px; */
 }
 
 a {
     display: block;
+}
+
+h2 {
+    background-color: darkblue;
+    border: 35px solid red;
+    padding: 15px;
+}
+
+p {
+    background-color: fuchsia;
 }
